@@ -1,8 +1,8 @@
 Its a project about Modern Interior Design . Everyone can choose simple and comfortable life.
 
+![alt text](screenshots/hf.png)
+![alt text](screenshots/kj.png)
+![alt text](screenshots/la.png)
 ![alt text](screenshots/kk.png)
-![alt text](screenshots/2020-11-05 (2).png)
-![alt text](screenshots/2020-11-05.3.png)
-![alt text](screenshots/2020-11-05.png)
 
 
